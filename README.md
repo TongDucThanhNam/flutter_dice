@@ -190,7 +190,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/tongducthanhnam) - tongducthanhnam@gmail.com
+Your Name - [@tongducthanhnam](https://twitter.com/tongducthanhnam) - tongducthanhnam@gmail.com
 
 Project Link: [https://github.com/tongducthanhnam/flutter_dice](https://github.com/tongducthanhnam/flutter_dice)
 
