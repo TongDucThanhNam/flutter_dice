@@ -67,7 +67,7 @@
   </a>
 
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+[//]: # (Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -110,16 +110,22 @@ You have installed an IDE such as Android Studio, IntelliJ IDEA, or Visual Studi
 You have set up an emulator or have a physical device to run the Flutter app.
 You have installed Dart SDK, which is included with the Flutter SDK.
 ### Installation
-Clone the repository:  
-`git clone https://github.com/TongDucThanhNam/flutter_dice
-`Navigate to the project directory:  
-`cd repo_name
-`Install the dependencies:  
-`flutter pub get
-`Run the app:
-`
+- Clone the repository:  
+```
+git clone https://github.com/TongDucThanhNam/flutter_dice
+```
+- Navigate to the project directory:  
+```
+cd flutter_tutorial
+```
+- Install the dependencies:  
+```
+flutter pub get
+```
+- Run the app:
+```
 flutter run
-`
+```
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -129,9 +135,9 @@ flutter run
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+[//]: # (Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.)
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://github.com/TongDucThanhNam/flutter_dice?tab=readme-ov-file)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -140,10 +146,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
+- [ ] Vibration 
 
 See the [open issues](https://github.com/TongDucThanhNam/flutter_dice/issues) for a full list of proposed features (and known issues).
 
@@ -187,9 +190,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/tongducthanhnam) - email@email_client.com
+Your Name - [@twitter_handle](https://twitter.com/tongducthanhnam) - tongducthanhnam@gmail.com
 
-Project Link: [https://github.com/tongducthanhnam](https://github.com/tongducthanhnam)
+Project Link: [https://github.com/tongducthanhnam/flutter_dice](https://github.com/tongducthanhnam/flutter_dice)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -217,8 +220,9 @@ Project Link: [https://github.com/tongducthanhnam](https://github.com/tongductha
 [license-shield]: https://img.shields.io/github/license/tongducthanhnam/flutter_dice.svg?style=for-the-badge
 [license-url]: https://github.com/tongducthanhnam/flutter_dice/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/othneildrew
-[product-screenshot]: images/screenshot.png
+[linkedin-url]: https://linkedin.com/in/tong-duc-thanh-nam
+
+[//]: # ([product-screenshot]: images/screenshot.png)
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
 [Next-url]: https://nextjs.org/
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
