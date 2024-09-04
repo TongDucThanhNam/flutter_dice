@@ -190,9 +190,9 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@tongducthanhnam](https://twitter.com/tongducthanhnam) - tongducthanhnam@gmail.com
+[@tongducthanhnam](https://twitter.com/tongducthanhnam) - tongducthanhnam@gmail.com
 
-Project Link: [https://github.com/tongducthanhnam/flutter_dice](https://github.com/tongducthanhnam/flutter_dice)
+[My Portfolio](tongducthanhnam.id.vn)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
