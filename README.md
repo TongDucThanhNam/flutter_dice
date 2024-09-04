@@ -192,7 +192,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 [@tongducthanhnam](https://twitter.com/tongducthanhnam) - tongducthanhnam@gmail.com
 
-[My Portfolio](tongducthanhnam.id.vn)
+[My Portfolio](https://tongducthanhnam.id.vn)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
